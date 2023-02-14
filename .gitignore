@@ -1,0 +1,9 @@
+# environment
+.python-version
+
+# git
+.gitattributes
+
+# data
+ny_taxi_postgres_data/
+yellow_tripdata_2021-01.csv
